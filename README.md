@@ -16,5 +16,5 @@ To parallelize the outer iteration by allocating rows to threads, in the case of
 
 
 ## Result & Finding
-This multi-threading version has significantly accelerated the inference of Large Language Model and the result is provided in the report.pdf for analysis.
+This multi-threading version has significantly accelerated the inference of Large Language Model and the result is analyzed in the report.pdf for analysis.
 
